@@ -1,7 +1,7 @@
 # FQH_quasihole
 (Beta version)
 
-Main function: `FQH_quasihole.FQH_quasihole_poly(Ne, pos, ground_state)`
+Main function: `FQH_quasiholes.FQH_quasihole_poly(Ne, pos, ground_state)`
 
 Add fluxes at positions pos=[w_1, w_2,...] into a given many_body state.
 
