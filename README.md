@@ -1,5 +1,5 @@
 # FQH_quasihole
-(Beta version)
+(Beta version. Last updated Feb 2022)
 
 Main function: `FQH_quasiholes.FQH_quasihole_poly(Ne, pos, ground_state)`
 
